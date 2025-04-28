@@ -1,4 +1,4 @@
-# 惑星ボー神話RAGシステム
+# RAGシステムサンプル
 
 このプロジェクトは、Retrieval-Augmented Generation (RAG) システムの基本実装です。
 Plamo-Embedding-1Bを使用してテキストをベクトル化し、DuckDB+VSSを使用してベクトル検索を行います。
@@ -25,6 +25,7 @@ poetry install
 ## 使用方法
 
 ### 1. サンプルデータの生成
+- サンプルデータは架空の惑星「ボー」の神話に関する断片的な情報になります
 
 ```bash
 poetry run python main.py generate-data
