@@ -1,0 +1,122 @@
+[
+  {
+    "id": "001",
+    "title": "サン・ジュカール",
+    "category": "人物・組織",
+    "filename": "001_サン・ジュカール.txt"
+  },
+  {
+    "id": "002",
+    "title": "サン・ジュカールの起源",
+    "category": "人物・組織",
+    "filename": "002_サン・ジュカールの起源.txt"
+  },
+  {
+    "id": "003",
+    "title": "テリペ王子",
+    "category": "人物・組織",
+    "filename": "003_テリペ王子.txt"
+  },
+  {
+    "id": "004",
+    "title": "エシム王国",
+    "category": "人物・組織",
+    "filename": "004_エシム王国.txt"
+  },
+  {
+    "id": "005",
+    "title": "サン・ジスバ",
+    "category": "人物・組織",
+    "filename": "005_サン・ジスバ.txt"
+  },
+  {
+    "id": "006",
+    "title": "カロン・ジスバ",
+    "category": "人物・組織",
+    "filename": "006_カロン・ジスバ.txt"
+  },
+  {
+    "id": "007",
+    "title": "惑星ボーの月",
+    "category": "地理・世界観",
+    "filename": "007_惑星ボーの月.txt"
+  },
+  {
+    "id": "008",
+    "title": "ミロド惑星",
+    "category": "地理・世界観",
+    "filename": "008_ミロド惑星.txt"
+  },
+  {
+    "id": "009",
+    "title": "テシム皇国の首都",
+    "category": "地理・世界観",
+    "filename": "009_テシム皇国の首都.txt"
+  },
+  {
+    "id": "010",
+    "title": "ブルカニウム",
+    "category": "地理・世界観",
+    "filename": "010_ブルカニウム.txt"
+  },
+  {
+    "id": "011",
+    "title": "エガの術",
+    "category": "魔法・技術",
+    "filename": "011_エガの術.txt"
+  },
+  {
+    "id": "012",
+    "title": "エシム王国の機械工学",
+    "category": "魔法・技術",
+    "filename": "012_エシム王国の機械工学.txt"
+  },
+  {
+    "id": "013",
+    "title": "魔術工学",
+    "category": "魔法・技術",
+    "filename": "013_魔術工学.txt"
+  },
+  {
+    "id": "014",
+    "title": "クレル月の遺跡",
+    "category": "魔法・技術",
+    "filename": "014_クレル月の遺跡.txt"
+  },
+  {
+    "id": "015",
+    "title": "ジュカール祭",
+    "category": "文化・習慣",
+    "filename": "015_ジュカール祭.txt"
+  },
+  {
+    "id": "016",
+    "title": "帰還の儀式",
+    "category": "文化・習慣",
+    "filename": "016_帰還の儀式.txt"
+  },
+  {
+    "id": "017",
+    "title": "絹星草",
+    "category": "文化・習慣",
+    "filename": "017_絹星草.txt"
+  },
+  {
+    "id": "018",
+    "title": "ジャヒルの仮面",
+    "category": "文化・習慣",
+    "filename": "018_ジャヒルの仮面.txt"
+  },
+  {
+    "id": "019",
+    "title": "第一次統一戦争",
+    "category": "歴史・出来事",
+    "filename": "019_第一次統一戦争.txt"
+  },
+  {
+    "id": "020",
+    "title": "ミロド探査",
+    "category": "歴史・出来事",
+    "filename": "020_ミロド探査.txt"
+  }
+]
