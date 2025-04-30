@@ -1,15 +1,19 @@
 [project]
 name = "boe-rag"
-version = "0.1.0"
-description = "惑星ボー神話のRAGシステム"
+version = "0.1.1"
+description = "RAGシステムのサンプル"
 authors = [
     {name = "Koaquin"}
 ]
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "duckdb (>=1.2.2,<2.0.0)",
+    "torch (>=2.7.0,<3.0.0)",
+    "transformers (>=4.51.3,<5.0.0)",
     "sentencepiece (>=0.2.0,<0.3.0)",
-    "numpy (>=2.2.5,<3.0.0)"
+    "numpy (>=2.2.5,<3.0.0)",
+    "pandas (>=2.2.3,<3.0.0)"
 ]
 
 
